@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Java开发手册]]></title>
+    <url>%2F2019%2F06%2F26%2FJava%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%2F</url>
+    <content type="text"><![CDATA[Java开发手册（华山版）在线阅读]]></content>
+      <categories>
+        <category>技术资料</category>
+      </categories>
+      <tags>
+        <tag>Java</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Learning Markdown]]></title>
+    <url>%2F2019%2F06%2F26%2FLearning-Markdown%2F</url>
+    <content type="text"><![CDATA[Learning-Markdown (Markdown语法参考)Code on Github 在线阅读 参考资料 Project Markdown Markdown Syntax zh_TW Markdown Syntax CN Wiki Markdown XBeta Wiki Markdown 共享协议本文由 LearnShare 整理并在 CC BY-SA 3.0 协议下发布，主要为了给自己和各位朋友作为学习 Markdown 的入门及参考资料。 请各位遵循 Markdown: License 及其它参考文献的共享协议来使用、修改和发布。]]></content>
+      <categories>
+        <category>技术资料</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[科学扶墙]]></title>
     <url>%2F2019%2F06%2F26%2F%E7%A7%91%E5%AD%A6%E6%89%B6%E5%A2%99%2F</url>
-    <content type="text"><![CDATA[SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-06-15 香港 42.200.181.193 47042 rc4-md5 有效 2 2019-06-15 新加坡 47.74.245.58 47042 rc4-md5 有效 3 2019-06-15 美国 45.12.206.62 47042 rc4-md5 有效 4 2019-06-15 英国 103.105.48.51 47042 rc4-md5 有效 5 2019-06-26 日本 45.85.3.186 47042 rc4-md5 有效 6 2019-06-26 美国 64.32.22.27 47042 rc4-md5 有效 7 2019-06-26 香港 149.129.91.20 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
+    <content type="text"><![CDATA[飞跃疯人院SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-06-15 香港 42.200.181.193 47042 rc4-md5 有效 2 2019-06-15 新加坡 47.74.245.58 47042 rc4-md5 有效 3 2019-06-15 美国 45.12.206.62 47042 rc4-md5 有效 4 2019-06-15 英国 103.105.48.51 47042 rc4-md5 有效 5 2019-06-26 日本 45.85.3.186 47042 rc4-md5 有效 6 2019-06-26 美国 64.32.22.27 47042 rc4-md5 有效 7 2019-06-26 香港 149.129.91.20 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
       <categories>
         <category>技术资料</category>
       </categories>
@@ -15,7 +37,7 @@
   <entry>
     <title><![CDATA[万物皆数]]></title>
     <url>%2F2019%2F06%2F26%2F%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0%2F</url>
-    <content type="text"><![CDATA[1. 不自觉的数学家讲述在新石器时代，先民在陶器的冶炼中逐渐发现几何图形的规律。总结了7种类型的对称图形。 2. 原始数字的诞生通过美索不达米亚地区商业生活中对数字的使用，展开了古文明时代数字从文字中抽象出来形成独立的符号。这就是数学科学的诞生。 3. 几何的诞生文明演化到农业社会，几何作为地里田间重要的工具出现。绳索作为重要的几何工具（直线、圆形、三角形）而出现。古人利用绳索画直角的探索（两个相交圆以及13等分直线）。]]></content>
+    <content type="text"><![CDATA[万物皆数作者：彼得·J.宾利（法国）1. 不自觉的数学家讲述在新石器时代，先民在陶器的冶炼中逐渐发现几何图形的规律。总结了7种类型的对称图形。 2. 原始数字的诞生通过美索不达米亚地区商业生活中对数字的使用，展开了古文明时代数字从文字中抽象出来形成独立的符号。这就是数学科学的诞生。 3. 几何的诞生文明演化到农业社会，几何作为地里田间重要的工具出现。绳索作为重要的几何工具（直线、圆形、三角形）而出现。古人利用绳索画直角的探索（两个相交圆以及13等分直线）。]]></content>
       <categories>
         <category>读书笔记</category>
       </categories>
