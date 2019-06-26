@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[科学扶墙]]></title>
+    <url>%2F2019%2F06%2F26%2F%E7%A7%91%E5%AD%A6%E6%89%B6%E5%A2%99%2F</url>
+    <content type="text"><![CDATA[SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-06-15 香港 42.200.181.193 47042 rc4-md5 有效 2 2019-06-15 新加坡 47.74.245.58 47042 rc4-md5 有效 3 2019-06-15 美国 45.12.206.62 47042 rc4-md5 有效 4 2019-06-15 英国 103.105.48.51 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
+      <categories>
+        <category>技术资料</category>
+      </categories>
+      <tags>
+        <tag>资料</tag>
+        <tag>GFW</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[万物皆数]]></title>
+    <url>%2F2019%2F06%2F26%2F%E4%B8%87%E7%89%A9%E7%9A%86%E6%95%B0%2F</url>
+    <content type="text"><![CDATA[1. 不自觉的数学家讲述在新石器时代，先民在陶器的冶炼中逐渐发现几何图形的规律。总结了7种类型的对称图形。 2. 原始数字的诞生通过美索不达米亚地区商业生活中对数字的使用，展开了古文明时代数字从文字中抽象出来形成独立的符号。这就是数学科学的诞生。 3. 几何的诞生文明演化到农业社会，几何作为地里田间重要的工具出现。绳索作为重要的几何工具（直线、圆形、三角形）而出现。古人利用绳索画直角的探索（两个相交圆以及13等分直线）。]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F06%2F26%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
