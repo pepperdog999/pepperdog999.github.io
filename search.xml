@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[枪炮、病菌与钢铁]]></title>
+    <url>%2F2019%2F07%2F30%2F%E6%9E%AA%E7%82%AE%E3%80%81%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81%2F</url>
+    <content type="text"><![CDATA[枪炮、病菌与钢铁作者：贾雷德·戴蒙德]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[一席——好多贝壳]]></title>
     <url>%2F2019%2F07%2F05%2F%E4%B8%80%E5%B8%AD%E2%80%94%E2%80%94%E5%A5%BD%E5%A4%9A%E8%B4%9D%E5%A3%B3%2F</url>
     <content type="text"><![CDATA[好多贝壳 视频来源自《一席》]]></content>
@@ -37,7 +48,7 @@
   <entry>
     <title><![CDATA[科学扶墙]]></title>
     <url>%2F2019%2F06%2F26%2F%E7%A7%91%E5%AD%A6%E6%89%B6%E5%A2%99%2F</url>
-    <content type="text"><![CDATA[飞跃疯人院SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-06-15 香港 42.200.181.193 47042 rc4-md5 有效 2 2019-06-15 新加坡 47.74.245.58 47042 rc4-md5 有效 3 2019-06-15 美国 45.12.206.62 47042 rc4-md5 有效 4 2019-06-15 英国 103.105.48.51 47042 rc4-md5 有效 5 2019-06-26 日本 45.85.3.186 47042 rc4-md5 有效 6 2019-06-26 美国 64.32.22.27 47042 rc4-md5 有效 7 2019-06-26 香港 149.129.91.20 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
+    <content type="text"><![CDATA[飞跃疯人院SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-07-29 香港 149.129.91.26 47042 rc4-md5 有效 2 2019-07-29 新加坡 195.123.237.227 47042 rc4-md5 有效 3 2019-07-29 美国 168.235.72.41 47042 rc4-md5 有效 4 2019-07-29 日本 45.66.135.12 47042 rc4-md5 有效 5 2019-07-29 香港 149.129.107.44 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
       <categories>
         <category>技术资料</category>
       </categories>
