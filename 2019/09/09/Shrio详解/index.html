@@ -68,7 +68,7 @@
 
 
 
-  <meta name="keywords" content="Hexo, NexT">
+  <meta name="keywords" content="Jave,">
 
 
 
@@ -79,16 +79,18 @@
 
 
 
-<meta name="description" content="java, python, golang, 客官来点什么……">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Mula&#39;s Blog">
-<meta property="og:url" content="http://yoursite.com/categories/技术资料/index.html">
+<meta name="description" content="Shiro详解#shiro中的session、authentication与authorization session用于存保存陆状态，key值为sessionId authentication用于保存用户的认证信息，key值为username authorization用于保存用户的授权信息（可访问资源等），key值为usernam #shiro整合ehcache整合ehcache后，要注意eh">
+<meta name="keywords" content="Jave">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Shrio详解">
+<meta property="og:url" content="http://yoursite.com/2019/09/09/Shrio详解/index.html">
 <meta property="og:site_name" content="Mula&#39;s Blog">
-<meta property="og:description" content="java, python, golang, 客官来点什么……">
+<meta property="og:description" content="Shiro详解#shiro中的session、authentication与authorization session用于存保存陆状态，key值为sessionId authentication用于保存用户的认证信息，key值为username authorization用于保存用户的授权信息（可访问资源等），key值为usernam #shiro整合ehcache整合ehcache后，要注意eh">
 <meta property="og:locale" content="zh-CN">
+<meta property="og:updated_time" content="2019-09-09T02:12:40.000Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Mula&#39;s Blog">
-<meta name="twitter:description" content="java, python, golang, 客官来点什么……">
+<meta name="twitter:title" content="Shrio详解">
+<meta name="twitter:description" content="Shiro详解#shiro中的session、authentication与authorization session用于存保存陆状态，key值为sessionId authentication用于保存用户的认证信息，key值为username authorization用于保存用户的授权信息（可访问资源等），key值为usernam #shiro整合ehcache整合ehcache后，要注意eh">
 
 
 
@@ -118,13 +120,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/categories/技术资料/">
+  <link rel="canonical" href="http://yoursite.com/2019/09/09/Shrio详解/">
 
 
 
 
 
-  <title>Category: 技术资料 | Mula's Blog</title>
+  <title>Shrio详解 | Mula's Blog</title>
   
 
 
@@ -143,7 +145,7 @@
     
   
 
-  <div class="container sidebar-position-left ">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -269,131 +271,228 @@
           <div id="content" class="content">
             
 
+  <div id="posts" class="posts-expand">
+    
+
+  
+
   
   
   
-  <div class="post-block category">
-
-    <div id="posts" class="posts-collapse">
-      <div class="collection-title">
-        <h1>技术资料<small>Category</small>
-        </h1>
-      </div>
-
-      
-        
 
   <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2019/09/09/Shrio详解/">
 
-      <h2 class="post-title">
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Mula Liu">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/avatar.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Mula's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
         
-            <a class="post-title-link" href="/2019/09/09/Shrio详解/" itemprop="url">
-              
-                <span itemprop="name">Shrio详解</span>
-              
-            </a>
         
-      </h2>
+          <h1 class="post-title" itemprop="name headline">Shrio详解</h1>
+        
 
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-09-09T09:32:59+08:00" content="2019-09-09">
-          09-09
-        </time>
-      </div>
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-09-09T09:32:59+08:00">
+                2019-09-09
+              </time>
+            
 
-    </header>
-  </article>
+            
 
+            
+          </span>
+
+          
+            <span class="post-category">
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/技术资料/" itemprop="url" rel="index">
+                    <span itemprop="name">技术资料</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-file-o"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Words count in article&#58;</span>
+                
+                <span title="Words count in article">
+                  86
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Reading time &asymp;</span>
+                
+                <span title="Reading time">
+                  1
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-        
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
-        
-            <a class="post-title-link" href="/2019/06/26/Java开发手册/" itemprop="url">
-              
-                <span itemprop="name">Java开发手册</span>
-              
-            </a>
-        
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-06-26T14:12:28+08:00" content="2019-06-26">
-          06-26
-        </time>
-      </div>
-
-    </header>
-  </article>
-
+      
 
       
-        
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
-        
-            <a class="post-title-link" href="/2019/06/26/Learning-Markdown/" itemprop="url">
-              
-                <span itemprop="name">Learning Markdown</span>
-              
-            </a>
-        
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-06-26T14:01:40+08:00" content="2019-06-26">
-          06-26
-        </time>
-      </div>
-
-    </header>
-  </article>
-
-
-      
-        
-
-  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <h2 class="post-title">
-        
-            <a class="post-title-link" href="/2019/06/26/科学扶墙/" itemprop="url">
-              
-                <span itemprop="name">科学扶墙</span>
-              
-            </a>
-        
-      </h2>
-
-      <div class="post-meta">
-        <time class="post-time" itemprop="dateCreated" datetime="2019-06-26T02:20:25+08:00" content="2019-06-26">
-          06-26
-        </time>
-      </div>
-
-    </header>
-  </article>
-
+        <h1 id="Shiro详解"><a href="#Shiro详解" class="headerlink" title="Shiro详解"></a>Shiro详解</h1><p>#shiro中的session、authentication与authorization</p>
+<p>session用于存保存陆状态，key值为sessionId</p>
+<p>authentication用于保存用户的认证信息，key值为username</p>
+<p>authorization用于保存用户的授权信息（可访问资源等），key值为usernam</p>
+<p>#shiro整合ehcache<br>整合ehcache后，要注意ehcache.xml中各个缓存的设置，比如external|timeToIdleSeconds等与timeout有关的设置。</p>
 
       
     </div>
+    
+    
+    
 
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/Jave/" rel="tag"># Jave</a>
+          
+        </div>
+      
+
+      
+      
+        <div class="post-widgets">
+        
+
+        
+
+        
+          
+          <div id="needsharebutton-postbottom">
+            <span class="btn">
+              <i class="fa fa-share-alt" aria-hidden="true"></i>
+            </span>
+          </div>
+        
+        </div>
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2019/07/30/枪炮、病菌与钢铁/" rel="next" title="枪炮、病菌与钢铁">
+                <i class="fa fa-chevron-left"></i> 枪炮、病菌与钢铁
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/2019/09/10/名句收录/" rel="prev" title="名句收录">
+                名句收录 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
   </div>
   
   
   
+  </article>
 
-  
 
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
 
           </div>
@@ -401,6 +500,10 @@
 
 
           
+
+  
+
+
 
         </div>
         
@@ -421,8 +524,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
 
-      <section class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <section class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -484,6 +596,22 @@
         </div>
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Shiro详解"><span class="nav-number">1.</span> <span class="nav-text">Shiro详解</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -645,6 +773,10 @@
 
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
 
   
 

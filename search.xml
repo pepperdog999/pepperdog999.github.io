@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[名句收录]]></title>
+    <url>%2F2019%2F09%2F10%2F%E5%90%8D%E5%8F%A5%E6%94%B6%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[名句收录守望者Heard joke once: Man goes to doctor. Says he’s depressed,Says life seems harsh and cruel. Says he feels all alone in a threatening world where what lies ahead is vague and uncertain.Doctor says “Treatment is simple. Great clown Pagliacci is in town tonight. Go and see him. That should pick you up.”Man bursts into tears. Says “But, doctor…I am Pagliacci.”Good joke. Everybody laugh. Roll on snare drum. Curtains. Fade to black.]]></content>
+      <categories>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>随笔</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Shrio详解]]></title>
+    <url>%2F2019%2F09%2F09%2FShrio%E8%AF%A6%E8%A7%A3%2F</url>
+    <content type="text"><![CDATA[Shiro详解#shiro中的session、authentication与authorization session用于存保存陆状态，key值为sessionId authentication用于保存用户的认证信息，key值为username authorization用于保存用户的授权信息（可访问资源等），key值为usernam #shiro整合ehcache整合ehcache后，要注意ehcache.xml中各个缓存的设置，比如external|timeToIdleSeconds等与timeout有关的设置。]]></content>
+      <categories>
+        <category>技术资料</category>
+      </categories>
+      <tags>
+        <tag>Jave</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[枪炮、病菌与钢铁]]></title>
     <url>%2F2019%2F07%2F30%2F%E6%9E%AA%E7%82%AE%E3%80%81%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81%2F</url>
     <content type="text"><![CDATA[枪炮、病菌与钢铁作者：贾雷德·戴蒙德]]></content>
