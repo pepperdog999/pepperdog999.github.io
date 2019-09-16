@@ -70,7 +70,7 @@
   <entry>
     <title><![CDATA[科学扶墙]]></title>
     <url>%2F2019%2F06%2F26%2F%E7%A7%91%E5%AD%A6%E6%89%B6%E5%A2%99%2F</url>
-    <content type="text"><![CDATA[飞跃疯人院SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-07-29 香港 149.129.91.26 47042 rc4-md5 有效 2 2019-07-29 新加坡 195.123.237.227 47042 rc4-md5 有效 3 2019-07-29 美国 168.235.72.41 47042 rc4-md5 有效 4 2019-07-29 日本 45.66.135.12 47042 rc4-md5 有效 5 2019-07-29 香港 149.129.107.44 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
+    <content type="text"><![CDATA[飞跃疯人院SS服务 mac、win、android均采用shadowsocks,ios需美区账号，路由器支持完美，订阅模式有问题。 序号 加入日期 线路区 IP地址 端口 加密方法 状态 1 2019-09-16 美国 45.144.243.163 47042 rc4-md5 有效 2 2019-09-16 香港 149.129.105.177 47042 rc4-md5 有效 4 2019-09-16 日本 5.183.176.210 47042 rc4-md5 有效 5 2019-09-16 香港 47.240.43.217 47042 rc4-md5 有效 V2ray服务 采用tls+ws模式，并用CDN改变真实IP，mac和win客户端已可用，android需google play,ios需美区账号，路由器支持尚未测试。 序号 加入日期 线路区 地址 端口 alterID 状态 1 2019-06-15 南加州 server1.linestorm.ml 443 233 无敌]]></content>
       <categories>
         <category>技术资料</category>
       </categories>
